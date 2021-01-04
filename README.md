@@ -1,11 +1,14 @@
 # FLUTTER FURNITURE UI
 
-Screenshot ONE:
+
+Screen ONE:
+
+![](images/Screenshot.png)
+
+
+Screen TWO:
 
 ![](images/screenone.png)
 
 
 
-Screenshot ONE:
-
-![](images/Screenshot.png)
